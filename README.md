@@ -57,7 +57,7 @@ A visually captivating website inspired by [Zentry](https://zentry.com/), featur
 ### Installation
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/legends-authority.git
+git clone https://github.com/NiteshChaudhari-exe/legends-authority.git
 cd legends-authority
 npm install
 ```
